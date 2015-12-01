@@ -1,0 +1,6 @@
+<Bindings>
+	<Binding name="SUMMONRANDOMFAVORITEMOUNT" runOnUp="true">
+		if not IsAddOnLoaded('Blizzard_PetJournal') then LoadAddOn('Blizzard_PetJournal') end
+		MountJournalSummonRandomFavoriteButton_OnClick()
+	</Binding>
+</Bindings>

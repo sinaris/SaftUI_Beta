@@ -1,0 +1,8 @@
+## Interface: 60000
+## Author: Safturento
+## Version: 0.1
+## Title: |cff00adefSaftUI Beta|r
+## Notes: Development version of SaftUI.
+## SavedVariables:SaftUISaved
+
+SaftUI.xml

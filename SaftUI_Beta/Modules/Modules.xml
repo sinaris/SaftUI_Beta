@@ -1,0 +1,17 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Config.lua"/>
+	<Script file="ActionBars.lua"/>
+	<Script file="UnitFrames.lua"/>
+	<Script file="Minimap.lua"/>
+	<Script file="Experience.lua"/>
+	<Script file="ChatFrame.lua"/>
+	<Script file="ClassBars.lua"/>
+	<Script file="AuctionHouse.lua"/>
+	<Script file="Tooltip.lua"/>
+	<Script file="Loot.lua"/>
+	<Include file="SecureAuraTemplate.xml"/>
+	<Script file="Auras.lua"/>
+	
+	<Include file="Inventory\Inventory.xml"/>
+	<Include file="Skinning\Skinning.xml"/>
+</Ui>

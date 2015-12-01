@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Skinning.lua"/>
+	
+	<Script file="Frames\CharacterFrame.lua"/>
+	<Script file="Frames\MerchantFrame.lua"/>
+	<Script file="Frames\SpellbookFrame.lua"/>
+	<Script file="Frames\ColorPickerFrame.lua"/>
+
+	<Script file="Addons\Blizzard_GarrisonUI.lua"/>
+	<Script file="Addons\Blizzard_ItemAlterationUI.lua"/>
+	<Script file="Addons\WeakAuras.lua"/>
+	<Script file="Addons\Skada.lua"/>
+</Ui>

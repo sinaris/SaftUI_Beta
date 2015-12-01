@@ -1,0 +1,4 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Inventory.lua"/>
+	<Script file="VoidStorage.lua"/>
+</Ui>
